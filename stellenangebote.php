@@ -20,7 +20,7 @@
       Wir sind eine überwiegend zivilrechtlich ausgerichtete, regional und überregional tätige mittelständische Rechtsanwaltskanzlei in Landshut
     </div>
     <div class="picture-boxes">
-      <a href="Praktikum_text.html">
+      <a href="stellenangebote/schuelerpraktikum.php">
         <div class="picture-box">
           <img class="picture" src="images/DALLE_2023-08-19_00.02.18_-_justice_black_and_white.png" alt="Picture 1">
           <div class="picture-text">Schülerpraktikum</div>
