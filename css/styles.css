@@ -31,9 +31,6 @@ body {
 }
 
 .background {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
 	background-color: #000000;
@@ -82,7 +79,7 @@ body {
 }
 
 .start_contact {
-    padding: 100px 0;
+    padding: 0px 0;
     text-align: center;
 }
 
