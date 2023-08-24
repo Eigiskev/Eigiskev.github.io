@@ -10,6 +10,7 @@
     left: 0;
     width: 100%;
     z-index: 1000; /* Optional, um die Ebene des Headers anzupassen */
+    height: 5vh;
 }
 
 .logo {
