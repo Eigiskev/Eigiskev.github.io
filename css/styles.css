@@ -6,8 +6,9 @@ body {
 	background-color: black;
 }
 
-.a{
+a{
     color: white;
+    text-decoration: none;
 }
 
 
