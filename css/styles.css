@@ -180,6 +180,10 @@ a{
     align-items: center;
 }
 
+.picture-boxes {
+    background-color: #323232;
+}
+
 .picture-boxes a{
     padding:10px;
     padding-left:1px;
