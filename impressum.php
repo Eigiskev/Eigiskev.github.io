@@ -13,7 +13,9 @@
 <body>
     <?php include 'header.php'; ?>
     <section class="hero">
-        <?php include 'text/Impressum_text.html'; ?>
+        <div class="background">
+            <?php include 'text/Impressum_text.html'; ?>
+        </div>
     </section>
     <?php include 'footer.php'; ?>
 </body>
