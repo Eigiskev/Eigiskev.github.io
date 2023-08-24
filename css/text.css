@@ -10,6 +10,7 @@
     font-size: 25px; /* Adjust the size as needed */
     white-space: pre-line; /* Preserve line breaks in the content */
     margin-left: 20px; /* Adjust the margin as needed */
+    display: block;
 }
 
 
