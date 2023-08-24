@@ -22,7 +22,7 @@
     <div class="picture-boxe">
       <a href="stellenangebote/schuelerpraktikum.php">
         <div class="picture-box">
-          <img class="picture" src="images/DALLE_2023-08-19_00.02.18_-_justice_black_and_white.png" alt="Picture 1">
+          <img class="picture" src="images/Stellenangebot.jpeg" alt="Picture 1">
           <div class="picture-text">Schülerpraktikum</div>
         </div>    
       </a>
