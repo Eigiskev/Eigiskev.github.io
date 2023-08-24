@@ -1,7 +1,7 @@
     <header class="header">
         <div class="logo">
 			<a href="../index.php">
-				<img src="images/logo.jpg" alt="Logo">
+				<img src="../images/logo.jpg" alt="Logo">
 				<h1>KDJ RECHTSANWÄLTE</h1>
 			</a>
         </div>
