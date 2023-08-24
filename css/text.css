@@ -1,0 +1,20 @@
+.text_name {
+    font-size: 40px; /* Adjust the size as needed */
+}
+
+.text_title {
+    font-size: 25px; /* Adjust the size as needed */
+    margin-left: 20px; /* Adjust the margin as needed */
+}
+
+.text_info {
+    margin-left: 20px;
+    margin-top: 5px; /* Adjust the margin as needed */
+    margin-bottom: 5px; /* Adjust the margin as needed */
+}
+
+.text_sub-info {
+    margin-left: 40px;
+    margin-top: 5px; /* Adjust the margin as needed */
+    margin-bottom: 5px; /* Adjust the margin as needed */
+}

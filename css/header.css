@@ -1,0 +1,67 @@
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Optional, um die Ebene des Headers anzupassen */
+}
+
+.logo {
+	display: flex;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.logo h1 {
+    margin: 10px;
+    font-size: 24px;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+	margin-right: 3vw;
+    padding: 0;
+    display: flex;
+}
+
+.menu li {
+    margin-right: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+	font-size: 25px;
+}
+
+.menu a:hover {
+    color: lightgray;
+}
+
+.menu p {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.m2 {
+	border-top: 1px solid white;
+	margin-top: 2px;
+}
+
+.menu .m2:hover {
+	border-top: 3px solid lightgray;
+	margin-top: 0;
+}
