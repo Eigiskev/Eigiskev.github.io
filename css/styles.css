@@ -192,11 +192,15 @@ a{
     text-decoration: none;
 }
 
+.picture_boxe{
+    background-color: #323232;
+}
+
 .picture-boxe a{
     padding:10px;
     padding-left:1px;
     padding-right:1px;
-    background-color: #131313;
+    background-color: #323232;
     text-decoration: none;
 }
 
