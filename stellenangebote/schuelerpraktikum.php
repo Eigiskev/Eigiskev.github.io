@@ -17,7 +17,7 @@
                 <div class="content_text">
                     <?php include '../text/Praktikum_text.html'; ?>
                 </div>
-                <a href="../contact.html" class="content_button">Bewirb dich hier</a>
+                <a href="../kontakt.php" class="content_button">Bewirb dich hier</a>
             </div>
 		</div>
     </section>
