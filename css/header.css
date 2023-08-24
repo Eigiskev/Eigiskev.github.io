@@ -28,7 +28,7 @@
     margin: 0px;
     font-size: 24px;
     color: white;
-    text-decoration: underline white;
+    display: inline-block;
 }
 
 .menu ul {
