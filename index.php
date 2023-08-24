@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/text.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <title>KDJ RECHTSANWÄLTE</title>
 </head>
 <body>
