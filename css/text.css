@@ -1,15 +1,21 @@
+.text_team_name {
+    font-size: 80px; /* Adjust the size as needed */
+}
+
 .text_name {
-    font-size: 40px; /* Adjust the size as needed */
+    font-size:60px
 }
 
 .text_title {
     font-size: 25px; /* Adjust the size as needed */
+    white-space: pre-line; /* Preserve line breaks in the content */
     margin-left: 20px; /* Adjust the margin as needed */
 }
 
+
 .text_info {
-    margin-left: 20px;
-    margin-top: 5px; /* Adjust the margin as needed */
+    margin-left: 60px;
+    margin-top: 0px; /* Adjust the margin as needed */
     margin-bottom: 5px; /* Adjust the margin as needed */
 }
 
@@ -20,5 +26,6 @@
 }
 
 .team{
-    align-items: center;
+    margin-left: 20%;
+    margin-top:10%;
 }
