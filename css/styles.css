@@ -278,6 +278,15 @@ a{
 	align-items: center;
     justify-content: center;
 }
+
+.content_box {
+    width: 100%;
+	height: auto;
+	margin-right: 25%;
+	align-items: center;
+    justify-content: center;
+} 
+
 }
 
 .anwalt_text-box {
