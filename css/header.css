@@ -35,26 +35,8 @@
     margin-left: 20px;
 }
 
-@media only screen and (max-width: 950px){
-    .logo h1 {
-        display: none;
-    }
-}
-
-@media only screen and (max-width: 700px){
-    .menu ul {
-        display: none !important;
-    }
-
-    .menu_small:focus .menu ul {
-        display: block;
-    }
-}
-
-@media only screen and (min-width: 700px){
-    .menu i {
-        display: none;
-    }
+.menu i {
+    font-size: 40px;
 }
 
 .menu ul {
@@ -92,4 +74,26 @@
 .m2:hover {
 	border-top: 3px solid lightgray;
 	margin-top: 0;
+}
+
+@media only screen and (max-width: 950px){
+    .logo h1 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    .menu ul {
+        display: none !important;
+    }
+
+    .menu_small:hover .menu ul {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 700px){
+    .menu i {
+        display: none;
+    }
 }
