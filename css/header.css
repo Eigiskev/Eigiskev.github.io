@@ -41,9 +41,14 @@
     }
 }
 
-
 @media only screen and (max-width: 700px){
     .menu_big {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 700px){
+    .menu_small {
         display: none;
     }
 }
