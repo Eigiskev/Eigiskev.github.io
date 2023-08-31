@@ -37,6 +37,8 @@
 
 .menu i {
     font-size: 40px;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .menu ul {
