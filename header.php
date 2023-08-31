@@ -6,6 +6,7 @@
 			</a>
         </div>
         <nav class="menu">
+			<i class="menu_small fa fa-bars" aria-hidden="true" style="color: #fafafa;"></i>
             <ul class="menu_big">
                 <li>
 					<a href="index.php" target="_self" class="">
