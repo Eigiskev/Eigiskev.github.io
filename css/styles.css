@@ -122,6 +122,12 @@ a{
     text-decoration: none;
 }
 
+@media only screen and (min-width: 1400px){
+    .contact_right {
+        visibility: hidden;
+    }
+}
+
 .contact_right {
     flex: 1;
     display: flex;
