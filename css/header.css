@@ -42,7 +42,7 @@
 }
 
 @media only screen and (max-width: 700px){
-    .menu_big {
+    .menu ul {
         display: none;
     }
 
@@ -52,7 +52,7 @@
 }
 
 @media only screen and (min-width: 700px){
-    .menu_small {
+    .menu i {
         display: none;
     }
 }

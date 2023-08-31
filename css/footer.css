@@ -15,7 +15,7 @@
     padding-right: 20px;
 }
 
-@media only screen and (max-width: 950px){
+@media only screen and (max-width: 520px){
     .footer-line a {
         display: block;
     }
