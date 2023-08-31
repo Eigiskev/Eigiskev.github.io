@@ -400,7 +400,6 @@ a{
         left: 35%;
         width: 30%;
         height: 30%;
-        background-color: rgba(0, 0, 0, 0.8); /* Anpassen der Transparenz der Überlagerung */
         display: flex;
         align-items: center;
         justify-content: center;
