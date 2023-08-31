@@ -364,12 +364,14 @@ a{
     
     
     .hero {
+        padding-top: 3vh;
         position: relative;
         min-height: 95vh;
         overflow: hidden;
         top: 5vh;
         display: block;
         margin-bottom: 10px;
+        padding-bottom: 8vh;
     }
     
     .background-image {
