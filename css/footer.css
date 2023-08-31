@@ -10,12 +10,17 @@
 }
 
 .footer-line a {
-    color: white;
-    text-decoration: none;
+    text-decoration: underline;
     padding-left: 20px;
     padding-right: 20px;
 }
 
-.footer-line a:hover {
-    text-decoration: underline;
+@media only screen and (max-width: 950px){
+    .footer-line a {
+        display: block;
+    }
+
+    .footer-line b {
+        display: block;
+    }
 }
