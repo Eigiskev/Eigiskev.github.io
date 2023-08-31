@@ -89,7 +89,7 @@
         display: none;
     }
 
-    .menu:focus ul {
+    .menu_small:checked ~ .menu ul {
         display: block;
     }
 }
