@@ -2,7 +2,7 @@
         <div class="logo">
 			<a href="../index.php">
 				<img src="../images/logo.jpg" alt="Logo">
-				<h1>KDJ RECHTSANWÄLTE</h1>
+				<h1 class="mobile_hiden">KDJ RECHTSANWÄLTE</h1>
 			</a>
         </div>
         <nav class="menu">
