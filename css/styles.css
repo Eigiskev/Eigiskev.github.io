@@ -590,7 +590,7 @@ a{
     }
         
     .anwalt_text-box {
-        margin: auto;
+        padding-left: 0px;
         flex: 1;
         padding: 20px;
     }
