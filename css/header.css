@@ -35,6 +35,12 @@
     margin-left: 20px;
 }
 
+@media only screen and (max-width: 950px){
+    .logo h1 {
+        display: none;
+    }
+}
+
 .menu ul {
     list-style: none;
     display: inline-flex;
