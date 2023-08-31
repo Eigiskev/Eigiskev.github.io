@@ -8,7 +8,7 @@
     src: url('../fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
 }
 
-@media only screen and (min-width: 1401px){
+@media only screen and (min-width: 801px){
 body {
     margin: 0;
     padding: 0;
@@ -324,7 +324,7 @@ a{
 }
 }
 
-@media only screen and (max-width: 1400px){
+@media only screen and (max-width: 800px){
     .anwalt_box{    
         display: flex;
         flex-direction: column;
