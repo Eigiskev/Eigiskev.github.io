@@ -89,7 +89,7 @@
         display: none;
     }
 
-    .menu_small:checked ~ .menu ul {
+    .menu_small:hover ~ .menu ul {
         display: block;
     }
 }
