@@ -45,6 +45,10 @@
     .menu_big {
         display: none;
     }
+
+    .menu_small:focus .menu ul {
+        display: block;
+    }
 }
 
 @media only screen and (min-width: 700px){
