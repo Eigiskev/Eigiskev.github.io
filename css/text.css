@@ -47,7 +47,7 @@
     }
     
     .text_title {
-        font-size: 20px; /* Adjust the size as needed */
+        font-size: 25px; /* Adjust the size as needed */
         white-space: pre-line; /* Preserve line breaks in the content */
         display: block;
     }
