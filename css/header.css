@@ -89,7 +89,7 @@
         display: none;
     }
 
-    .menu_small:hover ~ .menu ul {
+    .menu:hover ul {
         display: block;
     }
 }
