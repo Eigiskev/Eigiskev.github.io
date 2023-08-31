@@ -34,3 +34,43 @@
 .erklaerungen{
     margin: 5%;
 }
+
+@media only screen and (min-width: 1400px){
+    .text_team_name {
+        font-size: 40px; /* Adjust the size as needed */
+    }
+    
+    .text_name {
+        font-size:30px;
+    }
+    
+    .text_title {
+        font-size: 25px; /* Adjust the size as needed */
+        white-space: pre-line; /* Preserve line breaks in the content */
+        display: block;
+    }
+    
+    
+    .text_info {
+        margin-top: 0px; /* Adjust the margin as needed */
+        margin-bottom: 5px; /* Adjust the margin as needed */
+    }
+    
+    .text_sub-info {
+        margin-top: 5px; /* Adjust the margin as needed */
+        margin-bottom: 5px; /* Adjust the margin as needed */
+    }
+    
+    .team{
+        margin-left: 20%;
+        margin-top:10%;
+    }
+    
+    .erklaerungen{
+        margin: 5%;
+    }
+
+    .mobile_hide{
+        visibility: hidden;
+    }
+}
