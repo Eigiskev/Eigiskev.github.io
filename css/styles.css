@@ -592,6 +592,7 @@ a{
     .anwalt_text-box {
         padding-left: 0px;
         flex: 1;
+        padding: top 20px;
     }
     
     .anwalt_image {
