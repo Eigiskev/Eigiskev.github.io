@@ -6,7 +6,7 @@
 			</a>
         </div>
         <nav class="menu">
-            <ul>
+            <ul class="menu_big">
                 <li>
 					<a href="index.php" target="_self" class="">
 						<div class="m1">
