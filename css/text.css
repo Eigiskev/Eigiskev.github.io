@@ -1,6 +1,6 @@
 #datenschutz-mobile{
     display: none;
-    line-height: 100%;
+    line-height: 250%;
 }
 
 @media only screen and (max-width: 540px){
@@ -10,7 +10,6 @@
 
     #datenschutz-mobile{
         display: block;
-        line-height: 100%;
     }
 }
 
