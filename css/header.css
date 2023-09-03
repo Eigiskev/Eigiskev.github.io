@@ -78,6 +78,10 @@
 	margin-top: 0;
 }
 
+.hamb{
+    display: none;
+}
+
 @media only screen and (max-width: 950px){
     .logo h1 {
         display: none;
@@ -145,7 +149,7 @@
     } /* Hide checkbox */
 
     /* Toggle menu icon */
-    .side-menu:checked ~ menu{
+    .side-menu:checked ~  {
         max-height: 100%;
     }
     .side-menu:checked ~ .hamb .hamb-line {
