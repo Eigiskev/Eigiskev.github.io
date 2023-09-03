@@ -96,6 +96,10 @@
 }
 
 @media only screen and (max-width: 700px){
+    .header {
+        position: fixed;
+    }
+
     /* Nav menu */
     .menu {
         width: 100%;
@@ -166,10 +170,6 @@
     /* Toggle menu icon */
     .side-menu:checked ~ nav {
         max-height: 100%;
-    }
-
-    .side-menu:checked ~ .hero {
-        display: none;
     }
 
     .side-menu:checked ~ .hamb .hamb-line {
