@@ -13,7 +13,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-    <section class="hero">
+    <section class="hero" id="start">
         <div class="background-image">
 			<div class="start_overlay">
 				<div class="start_content">
