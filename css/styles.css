@@ -407,6 +407,8 @@ a{
         justify-content: center;
         color: white;
         text-align: center;
+        padding-bottom: 4%;
+        padding-top: 1%;
     }
     
     .start_content {
