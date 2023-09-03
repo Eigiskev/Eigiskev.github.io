@@ -1,3 +1,14 @@
+#datenschutz-mobile{
+    display: none;
+    line-height: 100%;
+}
+
+@media only screen and (max-width: 540px){
+    #datenschutz-normal {
+        display: none;
+    }
+}
+
 @media only screen and (min-width: 901px){
 .text_team_name {
     font-size: 80px; /* Adjust the size as needed */
@@ -34,10 +45,6 @@
 
 .erklaerungen{
     margin: 5%;
-}
-
-#datenschutz-mobile{
-    display: none;
 }
 }
 
@@ -78,9 +85,5 @@
 
     .mobile_hide{
         display:none;
-    }
-
-    #datenschutz-normal {
-        display: none;
     }
 }
