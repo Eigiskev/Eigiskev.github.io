@@ -15,7 +15,6 @@
         <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
         <!-- Menu -->
         <nav class="menu">
-			<!-- i class="menu_small fa fa-bars" aria-hidden="true" style="color: #fafafa;"></i -->
             <ul class="menu_big">
                 <li>
 					<a href="index.php" target="_self" class="">
