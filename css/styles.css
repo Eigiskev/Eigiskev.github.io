@@ -8,6 +8,22 @@
     src: url('../fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
 }
 
+@media only screen and (min-width: 901px) and (max-width: 1999px){
+.start_overlay {
+	position: absolute;
+    top: 35%;
+    left: 35%;
+    width: 30%;
+    height: 30%;
+    background-color: rgba(0, 0, 0, 0.8); /* Anpassen der Transparenz der Überlagerung */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+}
+
 @media only screen and (min-width: 901px){
 body {
     margin: 0;
@@ -54,19 +70,6 @@ a{
     background-size: cover;
 }
 
-.start_overlay {
-	position: absolute;
-    top: 35%;
-    left: 35%;
-    width: 30%;
-    height: 30%;
-    background-color: rgba(0, 0, 0, 0.8); /* Anpassen der Transparenz der Überlagerung */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-align: center;
-}
 
 .start_content {
     padding: 20px;
