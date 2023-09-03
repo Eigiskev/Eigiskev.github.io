@@ -35,6 +35,10 @@
 .erklaerungen{
     margin: 5%;
 }
+
+#datenschutz-mobile{
+    display: none;
+}
 }
 
 @media only screen and (max-width: 900px){
@@ -74,5 +78,9 @@
 
     .mobile_hide{
         display:none;
+    }
+
+    #datenschutz-normal {
+        display: none;
     }
 }
