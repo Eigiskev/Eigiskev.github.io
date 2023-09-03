@@ -7,6 +7,11 @@
     #datenschutz-normal {
         display: none;
     }
+
+    #datenschutz-mobile{
+        display: block;
+        line-height: 100%;
+    }
 }
 
 @media only screen and (min-width: 901px){
