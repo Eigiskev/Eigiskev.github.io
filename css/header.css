@@ -97,20 +97,26 @@
 
 @media only screen and (max-width: 700px){
     /* Nav menu */
-    .menu{
+    .menu {
         width: 100%;
-        height: 100%;
+        height: 95vh;
         position: fixed;
+        top: 5vh;
+        left: 0;
         background-color: #36383F;
         overflow: hidden;
-
     }
-    .menu_big a{
+
+    .menu_big ul {
+        display: block;
+    }
+
+    .menu_big a {
         display: block;
         padding: 30px;
         color: #f9f9f9;
     }
-    .menu_big a:hover{
+    .menu_big a:hover {
         background-color: #85888C;
     }
     .menu{
