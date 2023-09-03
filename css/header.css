@@ -168,7 +168,7 @@
         max-height: 100%;
     }
 
-    .side-menu:checked ~ section {
+    .side-menu:checked ~ .hero {
         display: none;
     }
 
