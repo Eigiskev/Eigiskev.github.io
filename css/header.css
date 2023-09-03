@@ -149,7 +149,7 @@
     } /* Hide checkbox */
 
     /* Toggle menu icon */
-    .side-menu:checked ~  {
+    .side-menu:checked ~ nav {
         max-height: 100%;
     }
     .side-menu:checked ~ .hamb .hamb-line {
