@@ -664,3 +664,10 @@ a{
         padding-top: 1%;
     }    
 }
+
+@media only screen and (mmax-width: 700px){
+    .hero{
+        padding-top: 0;
+        top: 0;
+    }
+}
