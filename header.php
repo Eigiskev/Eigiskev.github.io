@@ -3,14 +3,19 @@
 </head>
     
 	<header class="header">
+		<!-- Logo -->
         <div class="logo">
 			<a href="index.php">
 				<img src="images/logo.jpg" alt="Logo">
 				<h1>KDJ RECHTSANWÄLTE</h1>
 			</a>
         </div>
+		<!-- Hamburger icon -->
+        <input class="side-menu" type="checkbox" id="side-menu"/>
+        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        <!-- Menu -->
         <nav class="menu">
-			<i class="menu_small fa fa-bars" aria-hidden="true" style="color: #fafafa;"></i>
+			<!-- i class="menu_small fa fa-bars" aria-hidden="true" style="color: #fafafa;"></i -->
             <ul class="menu_big">
                 <li>
 					<a href="index.php" target="_self" class="">
