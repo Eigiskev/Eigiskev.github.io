@@ -17,7 +17,7 @@
       <div class="headline">Rechtsanwälte</div>
       <div class="separator"></div>
       <div class="picture-boxes">
-        <a href="anwaelte/joachim_kurim.php">
+        <a href="anwaelte/joachim_kourim.php">
           <div class="anwealte_picture-box">
             <img class="anwealte_picture" src="images/Kourim.jpg" alt="Picture 1">
             <div class="anwealte_name-box">Joachim Kourim</div>
